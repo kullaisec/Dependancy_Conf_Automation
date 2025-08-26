@@ -76,7 +76,11 @@ POTENTIAL_DEP_CONFUSION my-company/repo2      src/package.json    https://raw.gi
 
 ⸻
 
-![Screen Recording 2025-08-26 at 10 57 00 AM](https://github.com/user-attachments/assets/0e0740b3-25c7-4571-8618-df10e17488b7)
+
+
+https://github.com/user-attachments/assets/7e8daa9c-2c80-4d4c-aa37-c0a2cd3febb3
+
+
 
 
 ⚠️ Disclaimer
